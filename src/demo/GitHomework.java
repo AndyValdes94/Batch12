@@ -4,6 +4,10 @@ public class GitHomework {
 	
 	public static void main(String[] args) {
 		System.out.println("Batch12: Git Class Lecture");
+		int age = 12;
+		String = John;
+
+		//this is coming from github
 	}
 
 	
